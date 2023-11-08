@@ -1,0 +1,8 @@
+dim xu as integer 
+dim yz as integer 
+
+xu = 456
+yz = 123
+
+if (xu ==yz) then print("Equal,hello   125%")
+if (xu <> yz) then print("   123 ^~!Ok")
